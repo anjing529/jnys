@@ -1,0 +1,20 @@
+<view class="all long">
+
+  <block wx:for="{{list}}">
+    <navigator url="{{item.link}}">
+    <view class="ll">
+      <label>
+        <icon class="icon" color="green" type="search" size="40" />
+        <view class="oo">
+        <text class="tt">{{item.title}}</text>
+        </view>
+      </label>
+      </view>
+    </navigator>
+  </block>
+
+  <!-- <image class='pic' src="../../image/l1.jpg"></image> -->
+
+
+
+</view>

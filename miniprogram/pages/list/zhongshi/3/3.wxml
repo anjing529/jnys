@@ -1,0 +1,14 @@
+<view class="all">
+ <h1>鸾凤和鸣</h1>
+
+
+
+    <block wx:for="{{src}}">
+      <image class="test" mode="widthFix" src="{{item}}"></image>
+    </block>
+</view>
+
+
+    
+ 
+

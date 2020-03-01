@@ -1,0 +1,26 @@
+<view class="alll">
+
+<view class="appointment">
+ <view class="app-title">精彩婚礼展示</view>
+  <view class="app-moduler">
+
+<view class="allall">
+    <block wx:for="{{hunlis}}">
+      <navigator url="{{item.link}}" class="mod-item">
+      <view class="mod-img">
+        <image src="{{item.src}}" class="mod-image"></image>
+      </view>
+      <view class="mod-title">
+         <text>{{item.id}}</text>  
+      </view>
+    </navigator>
+    </block>
+
+</view>
+
+
+    
+  </view>
+</view>
+</view>
+

@@ -1,0 +1,24 @@
+<view class="all">
+
+<view class="appointment">
+ <view class="app-title">中式主题list</view>
+  <view class="app-moduler">
+
+
+    <block wx:for="{{hunlis}}">
+      <navigator url="{{item.link}}" class="mod-item">
+      <view class="mod-img">
+        <image src="{{item.src}}" class="mod-image"></image>
+      </view>
+      <view class="mod-title">
+         <text>{{item.id}}</text>  
+      </view>
+    </navigator>
+    </block>
+
+
+    
+  </view>
+</view>
+</view>
+

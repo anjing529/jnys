@@ -1,0 +1,28 @@
+/* miniprogram/pages/tips/index.wxss */
+.long{
+  height: 1500rpx
+}
+.icon{
+  float:left
+}
+.oo{
+  height: 80rpx;
+  line-height: 80rpx
+}
+.tt{
+  color:#5b5b5b;
+  font-size: 40rpx;
+
+}
+.ll{
+  height: 80rpx;
+  clear: both;
+  border-bottom: 2rpx dashed #f6c3de;
+  margin: 10rpx;
+
+}
+.pic{
+  margin-top: 30rpx;
+  width: 100%;
+  border-radius: 25rpx
+}

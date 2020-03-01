@@ -1,0 +1,2 @@
+/* miniprogram/pages/link/1/1.wxss */
+.test{width:100%;height:auto;margin: 20rpx auto 0;}

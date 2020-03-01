@@ -1,0 +1,14 @@
+<view class="all">
+  <view class="timu">
+    <h1>四大金刚</h1>
+  </view>
+
+
+
+  <block wx:for="{{car}}">
+    <image class="test" mode="widthFix" src="{{item.src}}"></image>
+    <text class="inside">{{item.id}}</text>
+  </block>
+
+
+</view>

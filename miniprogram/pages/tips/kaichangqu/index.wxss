@@ -1,0 +1,18 @@
+/* miniprogram/pages/tips/kaichangqu/index.wxss */
+.h1{
+  font-size: 55rpx;
+  text-align: center;
+  color: #5b5b5b;
+  margin-bottom: 25rpx;
+  font-family: 'YH';
+  display: block
+}
+p{
+  color:#5b5b5b;
+  font-size: 40rpx;
+  margin-bottom: 15rpx;
+  text-indent: 80rpx;
+  font-family: 'YH';
+  display: block;
+  line-height: 50rpx
+}

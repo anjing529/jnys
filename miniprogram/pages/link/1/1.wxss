@@ -1,0 +1,104 @@
+
+
+.app-title{
+ font-size: 50rpx;
+ font-family: 'STXinwei';
+ border-left:10rpx solid #4ec4c8;
+ margin-left: 20rpx;
+ margin-top: 20rpx;
+ text-indent: 15rpx;
+}
+
+.mod-item{
+ width:46%;
+ height:240rpx;
+ float: left;
+ margin-left:20rpx;
+ margin-top:40rpx;
+ position: relative;
+}
+.mod-signup{
+  position: absolute;
+}
+.mod-signup image{
+  width:76rpx;
+  height:42rpx;
+}
+.mod-img{
+  width:100%;
+  height:180rpx;
+} 
+.mod-image{
+  width: 100%;
+  height:180rpx;
+  border-radius: 15rpx;
+}
+.mod-title{
+  font-size:24rpx;
+  font-family: 'STXinwei';
+  color: #f6c3de;
+  text-align: center;
+  display:flex;
+  height:70rpx;
+  margin-top:15rpx;
+  flex-direction:column;
+  justify-content: center;
+  text-overflow: -o-ellipsis-lastline;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.mod-info{
+  display: flex;
+  flex-direction: column;
+  height:40rpx;
+}
+.mod-icon{
+  display: flex;
+  flex-direction: row;
+  width: 40rpx;
+  height: 40rpx;
+}
+.icon{
+  width: 40rpx;
+  height: 40rpx;
+}
+.moinfont{
+  font-size: 28rpx;
+  text-indent: 60rpx;
+  font-family: 'STXinwei';
+  color:#bfbfbf;
+}
+.more{
+  width:100%;
+  height: 100rpx;
+  display: flex;
+  flex-direction: column;
+  border-top:1rpx solid #eeeeee;
+  position: relative;
+}
+.more-info{
+  display: flex;
+  flex-direction: column;
+  font-size:32rpx;
+  font-family: 'STXinwei';
+  line-height: 98rpx;
+  text-indent: 30rpx;
+  color:#586C94;
+}
+.icon-jt{
+  position: absolute;
+  width:60rpx;
+  height:60rpx;
+  right:0rpx;
+  top:18rpx;
+}
+.iconjtimg{
+  width:60rpx;
+  height:60rpx;
+}
+.clear{
+  display: flex;
+  flex-direction: column;
+  height:10rpx;
+  background: #eeeeee;
+}

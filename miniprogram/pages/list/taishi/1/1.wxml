@@ -1,0 +1,16 @@
+<view class="all">
+ <h1>“S'il Suffisait D'aimer” 有爱已足够</h1>
+
+
+
+    <block wx:for="{{src}}">
+      <image class="test" mode="widthFix" src="{{item}}"></image>
+    </block>
+
+     
+</view>
+
+
+    
+ 
+

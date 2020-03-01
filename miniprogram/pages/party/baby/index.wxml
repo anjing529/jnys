@@ -1,0 +1,16 @@
+<view class="all">
+ <h1>宝宝宴</h1>
+
+
+
+    <block wx:for="{{src}}">
+      <image class="test" mode="widthFix" src="{{item}}"></image>
+    </block>
+
+     
+</view>
+
+
+    
+ 
+

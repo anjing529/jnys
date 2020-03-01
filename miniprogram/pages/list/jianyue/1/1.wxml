@@ -1,0 +1,16 @@
+<view class="all">
+ <h1>Less is more</h1>
+
+
+
+    <block wx:for="{{src}}">
+      <image class="test" mode="widthFix" src="{{item}}"></image>
+    </block>
+
+     
+</view>
+
+
+    
+ 
+
