@@ -6,6 +6,11 @@ Page({
     
     hunlis:[
       {
+        id: 'Resolve',
+        src: 'https://jnys0532.oss-cn-qingdao.aliyuncs.com/%E7%AB%A5%E8%AF%9D/Resolve%20%2810%29.jpg',
+        link: '../../list/tonghua/5/index'
+      }, 
+      {
         id:'Kilig',
         src:'https://jnys0532.oss-cn-qingdao.aliyuncs.com/%E7%AB%A5%E8%AF%9D/Kilig%20%281%29.jpg',
         link:'../../list/tonghua/1/1'

@@ -6,6 +6,31 @@ Page({
     
     hunlis:[
       {
+        id: '初见动心',
+        src: 'https://jnys0532.oss-cn-qingdao.aliyuncs.com/%E7%AE%80%E7%BA%A6/%E5%88%9D%E8%A7%81%E5%8A%A8%E5%BF%83%20%282%29.jpg',
+        link: '../../list/jianyue/14/index'
+      },
+      {
+        id: '怦然心动',
+        src: 'https://jnys0532.oss-cn-qingdao.aliyuncs.com/%E7%AE%80%E7%BA%A6/%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8%20%2818%29.jpg',
+        link: '../../list/jianyue/10/index'
+      },
+      {
+        id: 'The fusion of love',
+        src: 'https://jnys0532.oss-cn-qingdao.aliyuncs.com/%E7%AE%80%E7%BA%A6/The%20fusion%20of%20love%20%281%29.jpg',
+        link: '../../list/jianyue/11/index'
+      },
+      {
+        id: '朝暮',
+        src: 'https://jnys0532.oss-cn-qingdao.aliyuncs.com/%E7%AE%80%E7%BA%A6/%E6%9C%9D%E6%9A%AE%20%281%29.jpg',
+        link: '../../list/jianyue/12/index'
+      },
+      {
+        id: '人间理想',
+        src: 'https://jnys0532.oss-cn-qingdao.aliyuncs.com/%E7%AE%80%E7%BA%A6/%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3%20%285%29.jpg',
+        link: '../../list/jianyue/13/index'
+      },
+      {
         id:'Less is more',
         src:'https://jnys0532.oss-cn-qingdao.aliyuncs.com/%E7%AE%80%E7%BA%A6/Less%20is%20more%20%283%29.jpg',
         link:'../../list/jianyue/1/1'

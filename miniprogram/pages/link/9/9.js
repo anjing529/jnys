@@ -6,6 +6,16 @@ Page({
     
     hunlis:[
       {
+        id: 'Fiery邂逅',
+        src: 'https://jnys0532.oss-cn-qingdao.aliyuncs.com/%E5%B0%8F%E4%BC%97/Fiery%E9%82%82%E9%80%85%20%20%282%29.jpg',
+        link: '../../list/xiaozhong/6/index'
+      },
+      {
+        id: 'ONLY',
+        src: 'https://jnys0532.oss-cn-qingdao.aliyuncs.com/%E5%B0%8F%E4%BC%97/ONLY%20%20%281%29.jpg',
+        link: '../../list/xiaozhong/7/index'
+      },
+      {
         id:'HOME',
         src:'https://jnys0532.oss-cn-qingdao.aliyuncs.com/%E5%B0%8F%E4%BC%97/HOME%20%289%29.jpg',
         link:'../../list/xiaozhong/1/1'

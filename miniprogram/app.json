@@ -81,7 +81,16 @@
     "pages/4da/zhuchi/index",
     "pages/4da/sheying/index",
     "pages/4da/shexiang/index",
-    "pages/4da/huazhuang/index"
+    "pages/4da/huazhuang/index",
+    "pages/list/fugu/5/index",
+    "pages/list/jianyue/10/index",
+    "pages/list/jianyue/11/index",
+    "pages/list/jianyue/12/index",
+    "pages/list/jianyue/13/index",
+    "pages/list/jianyue/14/index",
+    "pages/list/tonghua/5/index",
+    "pages/list/xiaozhong/6/index",
+    "pages/list/xiaozhong/7/index"
   ],
   "window": {
     "backgroundColor": "#dfd7d7",

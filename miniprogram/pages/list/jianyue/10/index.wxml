@@ -1,0 +1,14 @@
+<view class="all">
+ <h1>怦然心动</h1>
+
+
+
+    <block wx:for="{{src}}">
+      <image class="test" mode="widthFix" src="{{item}}"></image>
+    </block>
+</view>
+
+
+    
+ 
+

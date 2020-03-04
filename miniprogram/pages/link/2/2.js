@@ -6,6 +6,11 @@ Page({
     
     hunlis:[
       {
+        id: 'Fall in love',
+        src: 'https://jnys0532.oss-cn-qingdao.aliyuncs.com/%E5%A4%8D%E5%8F%A4/Fall%20in%20love%20%282%29.jpeg',
+        link: '../../list/fugu/5/index'
+      }, 
+      {
         id:'Accompany',
         src:'https://jnys0532.oss-cn-qingdao.aliyuncs.com/%E5%A4%8D%E5%8F%A4/Accompany%20%284%29.jpg',
         link:'../../list/fugu/1/1'
